@@ -5,7 +5,7 @@
       "setup": "javac Bill3.java",
       "run": "java Bill3 a b c 239",
       "input": "",
-      "output": "Dear c, b and a: pay 80.0 Shekels each",
+      "output": "Dear c, b, and a: pay 80.0 Shekels each",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -15,7 +15,7 @@
       "setup": "javac Bill3.java",
       "run": "java Bill3 Dan Moti Itay 300",
       "input": "",
-      "output": "Dear Itay, Moti and Dan: pay 100.0 Shekels each",
+      "output": "Dear Itay, Moti, and Dan: pay 100.0 Shekels each",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -25,7 +25,7 @@
       "setup": "javac Bill3.java",
       "run": "java Bill3 Noa Maya Rachel 7",
       "input": "",
-      "output": "Dear Rachel, Maya and Noa: pay 3.0 Shekels each",
+      "output": "Dear Rachel, Maya, and Noa: pay 3.0 Shekels each",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -35,7 +35,7 @@
       "setup": "javac Bill3.java",
       "run": "java Bill3 Monica Chandler Ross 500",
       "input": "",
-      "output": "Dear Ross, Chandler and Monica: pay 166.67 Shekels each",
+      "output": "Dear Ross, Chandler, and Monica: pay 167.0 Shekels each",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -45,7 +45,7 @@
       "setup": "javac Bill3.java",
       "run": "java Bill3 a b c 1000",
       "input": "",
-      "output": "Dear c, b and a: pay 334.00 Shekels each",
+      "output": "Dear c, b, and a: pay 334.0 Shekels each",
       "comparison": "included",
       "timeout": 10,
       "points": 3
